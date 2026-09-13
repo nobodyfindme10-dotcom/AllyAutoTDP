@@ -108,7 +108,21 @@ You can also open the Profiles view and add a game manually by selecting its
 
 ## Screenshots
 
-Screenshots will be added before or with the V1 release.
+### QuickPanel
+
+![AllyAutoTDP QuickPanel with an active game profile, a 45 FPS target, and AutoTDP running.](docs/images/quickpanel.png)
+
+### Profiles
+
+![AllyAutoTDP list of per-game profiles.](docs/images/profiles.png)
+
+### Edit profile
+
+![Editing an AllyAutoTDP profile with its FPS target and enabled state.](docs/images/edit-profile.png)
+
+### System tray
+
+![AllyAutoTDP menu in the Windows notification area.](docs/images/tray.png)
 
 ## Compatibility with Armoury Crate
 
