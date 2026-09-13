@@ -1,0 +1,29 @@
+# .NET build outputs
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+
+# Visual Studio and IDE state
+.vs/
+.idea/
+/.kombai/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test and package outputs
+TestResults/
+packages/
+*.nupkg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+*.pdb
+
+# OS metadata
+.DS_Store
+Thumbs.db
